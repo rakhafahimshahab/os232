@@ -1,3 +1,2 @@
 # OS232
-
-[LOG](TXT/mylog.txt) || [GitHub](https://github.com/rakhafahimshahab) || [LINKS](LINKS/)
+# os232
