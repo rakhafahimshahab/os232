@@ -9,8 +9,12 @@ ZCZC W00 10 L04 GitHub Pages related
 ZCZC W00 10 L05 QUIZ
 ZCZC W00 60 L09 Weekly Assignments
 ZCZC W01 20 L00 General, etc.
-ZCZC W01 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 10 L05 QUIZ
 ZCZC W01 60 L09 Weekly Assignments
 ZCZC W01 10 L03 Github related
 ZCZC W01 10 L04 Github pages related
+ZCZC W02 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 60 L09 Weekly Assignments
+ZCZC W02 20 L03 Github related
+ZCZC W02 10 L05 QUIZ
