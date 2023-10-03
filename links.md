@@ -4,3 +4,4 @@ permalink: LINKS/
 - [Basic Linux Commands Video](https://www.youtube.com/watch?v=IVquJh3DXUA) --- Video guide on linux useful and basic commands for beginners
 - [Course Slides](https://www.os-book.com/OS10/slide-dir/) --- Some slides useful for OS course. from the book will help you throughout the course
 - [Linux for Beginners](https://www.youtube.com/watch?v=ROjZy1WbCIA) --- Quick tutorial on linux for beginners
+- [C Crash Course](https://www.youtube.com/watch?v=KJgsSFOSQv0) --- C crash course and exercise for beginners
