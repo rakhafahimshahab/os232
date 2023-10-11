@@ -5,3 +5,4 @@ permalink: LINKS/
 - [Course Slides](https://www.os-book.com/OS10/slide-dir/) --- Some slides useful for OS course. from the book will help you throughout the course
 - [Linux for Beginners](https://www.youtube.com/watch?v=ROjZy1WbCIA) --- Quick tutorial on linux for beginners
 - [C Crash Course](https://www.youtube.com/watch?v=KJgsSFOSQv0) --- C crash course and exercise for beginners
+- [Cheat Sheet for Github](https://education.github.com/git-cheat-sheet-education.pdf) --- Quick guide for Github
