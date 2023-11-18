@@ -8,3 +8,4 @@ permalink: LINKS/
 - [Cheat Sheet for Github](https://education.github.com/git-cheat-sheet-education.pdf) --- Quick guide for Github
 - [Linux file permissions](https://www.howtogeek.com/67987/htg-explains-how-do-linux-file-permissions-work/) --- Frequently used in weekly assignment such as running script.sh
 - [File Allocation](https://www.geeksforgeeks.org/file-allocation-methods/) --- Explanation of three main file allocation method with its advantages and disadvantages.
+- [LFS Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) --- A step by step tutorial on Linux from scratch handbook 12.0
